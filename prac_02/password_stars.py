@@ -1,6 +1,6 @@
 """Check password length and print a asterisk sequence for its length."""
 
-MINIMUM_LENGTH = 8
+MINIMUM_LENGTH = 8 
 
 def main():
     """Run the password check program."""
