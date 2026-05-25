@@ -1,4 +1,4 @@
-# CP1404 Practicals – Yunging
+# CP1404 Practicals 
 
 ## About This Repository
 
