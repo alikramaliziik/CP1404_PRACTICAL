@@ -1,4 +1,4 @@
-"""Determine the result of a score between 0 and 100."""
+"""Determine the result of a score between 0 and 100"""
 
 def main():
     """Run the score evaluation program."""
