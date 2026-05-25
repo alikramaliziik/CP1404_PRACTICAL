@@ -1,4 +1,4 @@
-"""Manage scores with a menu-driven interface."""
+"""Manage scores with a menu-driven interface.r"""
 
 def main():
     """Run the score menu program."""
